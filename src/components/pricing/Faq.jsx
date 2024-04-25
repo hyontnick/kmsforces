@@ -25,7 +25,7 @@ const Faq = () => {
               </button>
               {click === index ? (
                 <div className='text'>
-                  <p>{val.desc}<a href="https://drive.google.com/file/d/1r4Jint9NB0xX5MVZ-u7mfDwCUJNUf-J0/view?usp=drive_link" target="_blank"><b> plus...</b></a></p>
+                  <p>{val.desc}<a href="https://drive.google.com/file/d/1r4Jint9NB0xX5MVZ-u7mfDwCUJNUf-J0/view?usp=drive_link" ><b> plus...</b></a></p>
                 </div>
               ) : null}
             </div>
