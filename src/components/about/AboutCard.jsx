@@ -10,10 +10,10 @@ const AboutCard = () => {
       <section className='aboutHome'>
         <div className='container flexSB'>
           <div className='left row'>
-            <img src='./images/about.webp' alt='' />
+            <img src='./images/about.jpg' alt='' />
           </div>
           <div className='right row'>
-            <Heading title="Avantages de l'utilisation du CRM KMS Force en ligne" />
+            <Heading title="Avantages d'utilisation" />
             <div className='items'>
               {homeAbout.map((val) => {
                 return (

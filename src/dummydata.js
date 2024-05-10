@@ -67,7 +67,7 @@ export const coursesCard = [
         totalTime: "30 lectures (125 hrs)",
       },
     ],
-    priceAll: "Independament des appareils vous avez la possibilité d'acceder à KMS Force. ",
+    priceAll: "Independament des appareils vous avez la possibilité d'acceder à KMS Forces. ",
     pricePer: "$25 per month",
   },
   {
@@ -287,25 +287,26 @@ export const team = [
 ]
 export const price = [
   {
-    name: "PLAN DE BASE",
+    name: "PLAN",
     price: "414.5",
-    desc: "Forfait : 1 point de vente, 500 Go stockage, 2 utilisateurs, documents illimités. Sans interconnexion. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
-  },
-  {
-    name: "PLAN DÉBUTANT",
-    price: "663.2",
-    desc: "Forfait : 5 point de vente, 1 To stockage, 5 utilisateurs, documents illimités. 2 interconnexion. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
-  },
-  {
-    name: "PLAN PREMIUM",
-    price: "863.3",
-    desc: "Forfait : 10 point de vente, 2 To stockage, 10 utilisateurs, documents illimités. 4 interconnexion. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
-  },
-  {
-    name: "PLAN ULTIME",
-    price: "1,492.4",
-    desc: "Forfait : Point de vente illimités, Stockage illimités, Utilisateurs illimités, documents illimités. Interconnexion illimités. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
-  },
+    desc: `• Abonnement 200,000 XAF et mensualiter 80,000 XAF avec nom de domaine offerte et espace d’hébergement également
+    • Instance personnel 2, 5 Millions formation et assistance offert pour la première année`,
+    },
+  // {
+  //   name: "PLAN DÉBUTANT",
+  //   price: "663.2",
+  //   desc: "Forfait : 5 point de vente, 1 To stockage, 5 utilisateurs, documents illimités. 2 interconnexion. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
+  // },
+  // {
+  //   name: "PLAN PREMIUM",
+  //   price: "863.3",
+  //   desc: "Forfait : 10 point de vente, 2 To stockage, 10 utilisateurs, documents illimités. 4 interconnexion. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
+  // },
+  // {
+  //   name: "PLAN ULTIME",
+  //   price: "1,492.4",
+  //   desc: "Forfait : Point de vente illimités, Stockage illimités, Utilisateurs illimités, documents illimités. Interconnexion illimités. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
+  // },
 ]
 export const faq = [
   {
@@ -321,12 +322,12 @@ export const faq = [
     desc: "Remplissage du formulaire, localisation du bouton *ENREGISTRER*, cliquez dessus,",
   },
   {
-    title: "Comment obtenir KMS Force ?",
+    title: "Comment obtenir KMS Forces ?",
     desc: "Allez dans **Tarification**, faites votre choix et commencez",
   },
   {
-    title: "Comment se connecter à KMS Force ?",
-    desc: "Après avoir obtenu votre accès à KMS Force, lancez votre navigateur web",
+    title: "Comment se connecter à KMS Forces ?",
+    desc: "Après avoir obtenu votre accès à KMS Forces, lancez votre navigateur web",
   },
   {
     title: "Comment créer une facture ?",
@@ -394,7 +395,7 @@ export const testimonal = [
     id: 1,
     name: "Philip Mendez",
     post: "COMMERCIALE",
-    desc: "Avec KMS Force, j'ai pu optimiser notre campagne marketing pour obtenir des retours clients considérables.",
+    desc: "Avec KMS Forces, j'ai pu optimiser notre campagne marketing pour obtenir des retours clients considérables.",
     cover: "./images/testo/t3.png",
   },
   {

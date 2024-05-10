@@ -8,15 +8,17 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <div className='row'>
-            <Heading subtitle='BIENVENUE CHEZ KMS ENTREPRISE' title="L'expertise de KMS ENTREPRISE dans les CRM en ligne" />
+          <Heading title="L'expertise de KMS ENTREPRISE dans les CRM en ligne" />
+
+            {/* style={{ color: '#eedd22' }} <Heading subtitle='BIENVENUE CHEZ KMS ENTREPRISE' title="L'expertise de KMS ENTREPRISE dans les CRM en ligne" /> */}
             <div className='button'>
               <button className='primary-btn'>
                 KMS ENTREPRISE <i className='fa fa-long-arrow-alt-right'></i>
               </button>
               
-              <button>
+              {/* <button>
                KMS FORCE <i className='fa fa-long-arrow-alt-right'></i>
-              </button>
+              </button> */}
             </div>
           </div>
         </div>

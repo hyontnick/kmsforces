@@ -24,12 +24,13 @@ const Contact = () => {
               </div>
               <div className='box'>
                 <h4>EMAIL:</h4>
-                <p> Contact@kms-entreprises.com</p>
+                <p> infos@kms-entreprises.com</p>
               </div>
               <div className='box'>
                 <h4> TÉLÉPHONE:</h4>
                 <p>+237 678 687 686</p>
                 <p>+237 696 447 963</p>
+                <p>+1(780)902-3912</p>
               </div>
             </div>
 
@@ -42,7 +43,7 @@ const Contact = () => {
               <textarea cols='30' rows='10'>
               Créez un message ici...
               </textarea>
-              <button className='primary-btn'><a href="mailto:Contacts@kms-entreprises.com" style={{color: 'white'}}>ENVOYER UN MESSAGE</a></button>
+              <button className='primary-btn'><a href="mailto:infos@kms-entreprises.com" style={{color: 'white'}}>ENVOYER UN MESSAGE</a></button>
             </form>
 
             <h3>Suivez-nous ici</h3>

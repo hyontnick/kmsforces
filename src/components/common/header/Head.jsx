@@ -6,8 +6,9 @@ const Head = () => {
       <section className='head'>
         <div className='container flexSB'>
           <div className='logo'>
-            <h1>KMS FORCE</h1>
-            <span>LE CRM EN LIGNE</span>
+            <img src='./images/kms.png' alt='Logo de KMS FORCES'/>
+            {/* <h1>KMS FORCES</h1> */}
+            <span style={{ color: '#eedd22' }}>CRM EN LIGNE</span>
           </div>
 
           <div className='social'>

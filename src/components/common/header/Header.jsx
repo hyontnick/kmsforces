@@ -21,7 +21,7 @@ const Header = () => {
             <li>
               <Link to='/about'>À propos</Link>
             </li>
-            <li>
+            {/* <li>
               <Link to='/team'>Équipe</Link>
             </li>
             <li>
@@ -29,13 +29,13 @@ const Header = () => {
             </li>
             <li>
               <Link to='/journal'>Journal</Link>
-            </li>
+            </li> */}
             <li>
               <Link to='/contact'>Contact</Link>
             </li>
           </ul>
           <div className='start'>
-          <div className='button'> <Link to='/pricing' style={{ color: 'white' }}>OBTENIR UN PACKAGE</Link></div>
+          <div className='button'> <Link to='/contact' style={{ color: 'white' }}>OBTENIR UN PACKAGE</Link></div>
           </div>
           <button className='toggle' onClick={() => setClick(!click)}>
             {click ? <i className='fa fa-times'> </i> : <i className='fa fa-bars'></i>}

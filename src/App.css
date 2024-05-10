@@ -64,6 +64,11 @@ button:hover {
   color: #fff;
 }
 
+a {
+  color: inherit; /* Pour hériter de la couleur du texte parent */
+  text-decoration: none; /* Pour supprimer le soulignement par défaut */
+}
+
 /*------------global-----------*/
 #heading {
   text-align: center;

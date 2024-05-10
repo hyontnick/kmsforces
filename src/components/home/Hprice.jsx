@@ -6,8 +6,8 @@ const Hprice = () => {
   return (
     <>
       <section className='hprice padding'>
-        <Heading subtitle='NOS TARIFS' title='Tarification et Forfaits' />
-        <div className='price container grid'>
+        <Heading subtitle='NOS TARIFS' title='Tarification' />
+        <div className='price container grids'>
           <PriceCard />
         </div>
       </section>

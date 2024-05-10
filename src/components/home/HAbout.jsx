@@ -9,7 +9,7 @@ const HAbout = () => {
     <>
       <section className='homeAbout'>
         <div className='container'>
-          <Heading subtitle='POURQOUI KMS Force' title='Il vous assure une optimisation total de votre entreprise. ' />
+          <Heading subtitle='POURQOUI KMS Forces' title='Il vous assure une optimisation total de votre entreprise. ' />
 
           <div className='coursesCard'>
             {/* copy code form  coursesCard */}
