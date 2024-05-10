@@ -7,8 +7,8 @@ const Head = () => {
         <div className='container flexSB'>
           <div className='logo'>
             <img src='./images/kms.png' alt='Logo de KMS FORCES'/>
-            {/* <h1>KMS FORCES</h1> */}
-            <span style={{ color: '#eedd22' }}>CRM EN LIGNE</span>
+            {/* <h1>KMS FORCES</h1> */}<br></br>
+            <span>CRM EN LIGNE</span>
           </div>
 
           <div className='social'>
