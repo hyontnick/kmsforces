@@ -91,7 +91,6 @@ p {
 }
 
 .back {
-  background-image: url("../public/images/back.jpg");
   background-size: cover;
   background-attachment: fixed;
   position: absolute;
@@ -105,6 +104,22 @@ p {
   color: #fff;
   text-align: center;
 }
+
+.back.courses {
+  background-image: url("../public/images/courses.jpg");
+}
+
+.back.about {
+  background-image: url("../public/images/abouts.jpg");
+}
+
+.back.contact {
+  background-image: url("../public/images/contact.jpg");
+}
+.back.default {
+  background-image: url("../public/images/bg.jpg");
+}
+
 .back h1 {
   font-size: 100px;
   font-weight: 400;

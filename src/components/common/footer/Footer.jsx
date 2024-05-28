@@ -1,5 +1,4 @@
 import React from "react"
-import { blog } from "../../../dummydata"
 import "./footer.css"
 
 const Footer = () => {
@@ -19,7 +18,7 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>KMS FORCE</h1>
+            <h2>KMS FORCE</h2>
             <span>CRM EN LIGNE</span>
             <p> Le CRM puissant au service du developpement de l'entreprise.</p>
             <ul class="social">
@@ -49,7 +48,7 @@ const Footer = () => {
               <li>Interopérabilité</li>
               <li>Intuitivité</li>
               <li>Intégrations faciles</li>
-              <li>Automatisation des processus</li>
+              <li>Processus Automatisatiser</li>
             </ul>
           </div>
           <div className='box link'>
@@ -65,12 +64,12 @@ const Footer = () => {
           <div className='box link'>
             <h3>Autre Produits</h3>
             <ul>
-              <li><a href="https://www.kmsbulk.com">www.kmsbulk.com</a></li>
-              <li><a href="https://www.kmslearn.com">www.kmslearn.com</a></li>
-              <li><a href="https://www.kmsshop.com">www.kmsshop.com</a></li>
-              <li><a href="https://www.kmsfinance.com">www.kmsfinance.com</a></li>
-              <li><a href="https://www.kmstrack.com">www.kmstrack.com</a></li>
-              <li><a href="https://www.kmspro.com">www.kmspro.com</a></li>
+              <li><a href="#">www.kmsbulk.com</a></li>
+              <li><a href="#">www.kmslearn.com</a></li>
+              <li><a href="#">www.kmsshop.com</a></li>
+              <li><a href="#">www.kmsfinance.com</a></li>
+              <li><a href="#">www.kmstrack.com</a></li>
+              <li><a href="#">www.kmspro.com</a></li>
             </ul>
           </div>
           <div className='box last'>
@@ -82,7 +81,7 @@ const Footer = () => {
               </li>
               <li>
                 <a href="tel:+237 678687686">
-                <i className='fa fa-phone-alt'></i>+237 678 687 686 / +1(780)902-3912</a>
+                <i className='fa fa-phone-alt'></i>+237 678687686 / +237 696447963</a>
               </li>
               <li>
                 <a href="mailto:infos@kms-entreprises.com">

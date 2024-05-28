@@ -67,7 +67,7 @@ export const coursesCard = [
         totalTime: "30 lectures (125 hrs)",
       },
     ],
-    priceAll: "Independament des appareils vous avez la possibilité d'acceder à KMS Forces. ",
+    priceAll: "Indépendamment des appareils vous avez la possibilité d'acceder à KMS Forces. ",
     pricePer: "$25 per month",
   },
   {
@@ -81,7 +81,7 @@ export const coursesCard = [
         totalTime: "50 lectures (50 hrs)",
       },
     ],
-    priceAll: "Facile à prendre en main c'est une solution convivial.",
+    priceAll: "Facile à prendre en main c'est une solution conviviale.",
     pricePer: "$5 per month",
   },
   {
@@ -243,70 +243,14 @@ export const online = [
     course: "17 ***",
   },
 ]
-export const team = [
-  {
-    cover: "./images/team/t1.jpeg",
-    name: "GUY MARTIAL KEYOU",
-    work: "CEO KMS ENTREPRISE",
-  },
-  {
-    cover: "./images/team/t2.png",
-    name: "Ing TAMDOM",
-    work: "DIRECTEUR SI",
-  },
-  {
-    cover: "./images/team/t3.jpg",
-    name: "Ing PAMELA",
-    work: "DIRECTRICE COMMERCIALE",
-  },
-  {
-    cover: "./images/team/t4.jpg",
-    name: "Mr JOSUÉ",
-    work: "DISIGNER & INFOGRAPHISTE",
-  },
-  {
-    cover: "./images/team/t5.jpg",
-    name: "Mr BLÉRIOT HYONTA",
-    work: "DEVELOPEUR",
-  },
-  {
-    cover: "./images/team/t2.png",
-    name: "Mm INCONUE",
-    work: "COMMERCIALE",
-  },
-  {
-    cover: "./images/team/t2.png",
-    name: "Mm GEUNOU",
-    work: "DEVELOPEUR",
-  },
-  {
-    cover: "./images/team/t2.png",
-    name: "Mr NANA",
-    work: "MARKETISTE",
-  },
-]
+
 export const price = [
   {
     name: "PLAN",
     price: "414.5",
-    desc: `• Abonnement 200,000 XAF et mensualiter 80,000 XAF avec nom de domaine offerte et espace d’hébergement également
-    • Instance personnel 2, 5 Millions formation et assistance offert pour la première année`,
+    desc: `• Abonnement 200,000 XAF et mensualités 80,000 XAF avec nom de domaine offert et un espace d’hébergement également
+    • Instance personnel 2, 5 Million formation et assistance offert pour la première année`,
     },
-  // {
-  //   name: "PLAN DÉBUTANT",
-  //   price: "663.2",
-  //   desc: "Forfait : 5 point de vente, 1 To stockage, 5 utilisateurs, documents illimités. 2 interconnexion. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
-  // },
-  // {
-  //   name: "PLAN PREMIUM",
-  //   price: "863.3",
-  //   desc: "Forfait : 10 point de vente, 2 To stockage, 10 utilisateurs, documents illimités. 4 interconnexion. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
-  // },
-  // {
-  //   name: "PLAN ULTIME",
-  //   price: "1,492.4",
-  //   desc: "Forfait : Point de vente illimités, Stockage illimités, Utilisateurs illimités, documents illimités. Interconnexion illimités. Frais initiaux : 200 000 FCFA. Mensualités : 80 000 FCFA.",
-  // },
 ]
 export const faq = [
   {
@@ -334,62 +278,7 @@ export const faq = [
     desc: "Remplissage du formulaire, localisation du bouton **ENREGISTRER**, cliquez dessus.",
   },
 ]
-export const blog = [
-  {
-    id: 1,
-    type: "admin",
-    date: "APR. 23, 2024",
-    com: "3 COMMENTS ",
-    title: "Le KMS TOUR aura lieu le 27 avril 2024  à l’Institut Catholique Saint Jérôme de Douala.",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b1.jpeg",
-  },
-  {
-    id: 2,
-    type: "user",
-    date: "FEB. 15, 2024",
-    com: "5 COMMENTS ",
-    title: "Fin de la formation de la n-ième vague de stagiaires.",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b2.webp",
-  },
-  {
-    id: 3,
-    type: "Admin",
-    date: "APR. 15, 2024",
-    com: "10 COMMENTS ",
-    title: "Partenariat avec un groupe soudano-sahélien",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b3.webp",
-  },
-  {
-    id: 4,
-    type: "admin",
-    date: "APR. 10, 2024",
-    com: "25 COMMENTS ",
-    title: "La première édition du KMS Tour, qui s’est déroulée le 27 mars, avait pour thème l’entrepreneuriat en action *Détails sur notre page LinkedIn*.",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b4.jpeg",
-  },
-  {
-    id: 5,
-    type: "admin",
-    date: "APR. 22, 2024",
-    com: "40 COMMENTS ",
-    title: "Mission économique belge au Cameroun (hub brussels)",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b5.jpg",
-  },
-  // {
-  //   id: 6,
-  //   type: "user",
-  //   date: "JAN. 18, 2021",
-  //   com: "12 COMMENTS ",
-  //   title: "Build your Dream Software & Engineering Career",
-  //   desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-  //   cover: "../images/blog/b6.webp",
-  // },
-]
+
 export const testimonal = [
   {
     id: 1,
