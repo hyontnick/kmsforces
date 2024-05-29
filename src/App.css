@@ -10,7 +10,7 @@ body {
 }
 /*------------global-----------*/
 .container {
-  max-width: 85%;
+  max-width: 89%;
   margin: auto;
 }
 .flexSB {
@@ -137,6 +137,11 @@ p {
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 30px;
 }
+.grids {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 30px;
+}
 .flex {
   display: flex;
 }
@@ -172,7 +177,8 @@ p {
 @media screen and (max-width: 768px) {
   .grid2,
   .grid3,
-  .grid {
+  .grid,
+  .grids {
     grid-template-columns: repeat(1, 1fr);
   }
   .back {

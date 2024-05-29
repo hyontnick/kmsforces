@@ -54,8 +54,8 @@ const Footer = () => {
           <div className='box link'>
             <h3>Modules</h3>
             <ul>
-              <li>Contacts et des Clients</li>
-              <li>Devis et Factures</li>
+              <li>Contacts & Clients</li>
+              <li>Devis & Factures</li>
               <li>Messagerie Intégrée</li>
               <li>Projets</li>
               <li>Feedbacks</li>
@@ -81,7 +81,11 @@ const Footer = () => {
               </li>
               <li>
                 <a href="tel:+237 678687686">
-                <i className='fa fa-phone-alt'></i>+237 678687686 / +237 696447963</a>
+                <i className='fa fa-phone-alt'></i>+237 678687686</a>
+              </li>
+              <li>
+                <a href="tel:+237 696447963">
+                <i className='fa fa-phone-alt'></i>+237 696447963</a>
               </li>
               <li>
                 <a href="mailto:infos@kms-entreprises.com">

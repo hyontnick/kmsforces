@@ -248,8 +248,12 @@ export const price = [
   {
     name: "PLAN",
     price: "414.5",
-    desc: `• Abonnement 200,000 XAF et mensualités 80,000 XAF avec nom de domaine offert et un espace d’hébergement également
-    • Instance personnel 2, 5 Million formation et assistance offert pour la première année`,
+    desc: `• Abonnement 200,000 XAF, mensualités 80,000 XAF + nom de domaine offert et un espace d’hébergement`,
+  },
+  {
+    name: "PLAN",
+    price: "414.5",
+    desc: `• Instance personnel 2, 5 Million formation et assistance offert pour la première année d'abonnement`,
     },
 ]
 export const faq = [
